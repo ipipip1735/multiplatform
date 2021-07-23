@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="multiplatform.junitMain" target="1.8" />
+      <module name="multiplatform.junitTest" target="1.8" />
+      <module name="multiplatform.jvmKt" target="1.8" />
+      <module name="multiplatform.jvmKtr" target="1.8" />
+      <module name="multiplatform.kik" target="1.8" />
+      <module name="multiplatform.mim" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
